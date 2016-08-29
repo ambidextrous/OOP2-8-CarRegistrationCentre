@@ -24,7 +24,6 @@ public class RegistrationPlate {
         return regCode;
     }
 
-    
     @Override
     public boolean equals(Object object) {
         if (object == null) {
